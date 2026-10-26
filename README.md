@@ -1,0 +1,1 @@
+# Uygulama-2-Parca-2-Modelleme-ve-Montaj-Calismasi

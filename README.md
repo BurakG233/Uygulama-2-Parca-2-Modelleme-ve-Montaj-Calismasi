@@ -18,4 +18,4 @@
 >
 > Bu çalışmayla birlikte SolidWorks'te iç içe şekiller, daire ve radius konularında pratik yaptım.
 >
-> ![Parça2](Ekran%20görüntüsü%202026-10-26%20221831.png)
+> ![Parça2](Parca2.png)
